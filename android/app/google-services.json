@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "231154480921",
+    "firebase_url": "https://stugetow-default-rtdb.firebaseio.com",
+    "project_id": "stugetow",
+    "storage_bucket": "stugetow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231154480921:android:6e757d8c83c46f53983788",
+        "android_client_info": {
+          "package_name": "stugetow.stugetow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231154480921-7bdu8sfqujo64ncitcheg9altftl6v4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBahC4JXxDKYb6VKRzks8T2GH1FF6UBk6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231154480921-7bdu8sfqujo64ncitcheg9altftl6v4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

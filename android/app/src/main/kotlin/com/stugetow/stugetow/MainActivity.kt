@@ -1,0 +1,6 @@
+package stugetow.stugetow
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
