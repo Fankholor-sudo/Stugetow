@@ -26,8 +26,7 @@ Welcome to the Stugetow derived from ``Student get to work``, mobile application
 Stugetow serves as a social media platform where companies can post job opportunities, and students can apply for these jobs. The app is aiming at reducing graduate unemployment rate in South Africa. Additionally, the app fosters social connections among students from different universities, allowing students to assist each other irregardless of the distance between their universities.
 
 
-### Getting Started
-
+## Getting Started
 ### Features
 * <b>User Authentication:</b> Secure sign-up and login functionalities for both students and companies.
 * <b>Job Postings:</b> Companies can post job opportunities with detailed descriptions.
