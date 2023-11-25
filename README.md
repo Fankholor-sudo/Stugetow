@@ -45,7 +45,7 @@ Stugetow serves as a social media platform where companies can post job opportun
 2. Firebase Setup:
    * Create a new Firebase project on the Firebase Console.
    * Configure the necessary Firebase services (Authentication, Firestore, Cloud Functions)
-   * Update the Firebase configuration in the Flutter app (`lib/config/firebase_config.dart`).
+   * Update the Firebase configuration in the Flutter app (`lib/services/database.dart`).
 3. Flutter Setup:
    * Open the project in a Flutter-supported IDE (e.g. Visual Studio Code, Android Studio).
    * Run the following command to get dependencies:
