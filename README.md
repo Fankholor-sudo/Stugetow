@@ -1,5 +1,8 @@
 # Stugetow - flutter app.
 
+#### Created: 2021
+#### Tech Stack: Flutter and Dart
+
 <!-- TABLE OF CONTENTS -->
 ### Table of Contents
 <ol>
