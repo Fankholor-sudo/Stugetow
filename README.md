@@ -30,6 +30,9 @@ Stugetow serves as a social media platform where companies can post job opportun
 
 ### Video preview.
 
+https://github.com/Fankholor-sudo/Stugetow/assets/54154030/7867ca68-5e88-47d8-8d9e-87b5fc392897
+
+
 
 ### Getting Started
 #### Features
